@@ -14,7 +14,10 @@ Link
 class,id
 
 ## Assignment4
-(later)
+Intro of Dedaland
 
 ## Assignment5
-(later)
+Character Intro
+
+## Final
+My own website
